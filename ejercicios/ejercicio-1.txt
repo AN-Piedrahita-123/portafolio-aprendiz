@@ -1,0 +1,4 @@
+Mi primer ejercicio de programación.
+
+Estoy aprendiendo Git y GitHub
+como parte de mi formación en ADSO del SENA.
